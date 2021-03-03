@@ -1,0 +1,24 @@
+*Palettizer file: pspin.ptz
+*Default file path
+c:\windows\msremote.sfs\progra~1\palett~1\
+*Note: all bitmaps must be in 24-bit format, as created by 3D Modeler
+*Extension ID
+000
+*Maximum number of bitmaps
+100
+*Number of reserved colors
+1
+*Width to crop bitmaps of next set
+96
+*Height to crop bitmaps of next set
+96
+*Number of bitmaps in next set
+4
+*Bitmaps
+planet1
+planet2
+planet3
+planet4
+*No more bitmaps
+0
+*End of file

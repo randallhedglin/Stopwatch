@@ -1,0 +1,89 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Stopwatch - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "c:\windows\TEMP\RSPF1A3.TMP" with contents
+[
+/nologo /ML /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Release/Stopwatch.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Randy's Folder\Projects\Stopwatch\Direct3D\bmpfunc.cpp"
+"C:\Randy's Folder\Projects\Stopwatch\Direct3D\camfunc.cpp"
+"C:\Randy's Folder\Projects\Stopwatch\Direct3D\d3dfunc.cpp"
+"C:\Randy's Folder\Projects\Stopwatch\Direct3D\ddfunc.cpp"
+"C:\Randy's Folder\Projects\Stopwatch\Direct3D\difunc.cpp"
+"C:\Randy's Folder\Projects\Stopwatch\Direct3D\dmfunc.cpp"
+"C:\Randy's Folder\Projects\Stopwatch\Direct3D\dsfunc.cpp"
+"C:\Randy's Folder\Projects\Stopwatch\Direct3D\filefunc.cpp"
+"C:\Randy's Folder\Projects\Stopwatch\Direct3D\fontfunc.cpp"
+"C:\Randy's Folder\Projects\Stopwatch\Direct3D\ltfunc.cpp"
+"C:\Randy's Folder\Projects\Stopwatch\Source\mainprog.cpp"
+"C:\Randy's Folder\Projects\Stopwatch\Direct3D\matfunc.cpp"
+"C:\Randy's Folder\Projects\Stopwatch\Direct3D\mdlfunc.cpp"
+"C:\Randy's Folder\Projects\Stopwatch\Direct3D\mvefunc.cpp"
+"C:\Randy's Folder\Projects\Stopwatch\Direct3D\rdfunc.cpp"
+"C:\Randy's Folder\Projects\Stopwatch\Direct3D\scnfunc.cpp"
+"C:\Randy's Folder\Projects\Stopwatch\Direct3D\txfunc.cpp"
+"C:\Randy's Folder\Projects\Stopwatch\Direct3D\winmain.cpp"
+]
+Creating command line "cl.exe @c:\windows\TEMP\RSPF1A3.TMP" 
+Creating temporary file "c:\windows\TEMP\RSPF1A4.TMP" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/Stopwatch.pdb" /machine:I386 /out:"Release/Stopwatch.exe" 
+".\Release\bmpfunc.obj"
+".\Release\camfunc.obj"
+".\Release\d3dfunc.obj"
+".\Release\ddfunc.obj"
+".\Release\difunc.obj"
+".\Release\dmfunc.obj"
+".\Release\dsfunc.obj"
+".\Release\filefunc.obj"
+".\Release\fontfunc.obj"
+".\Release\ltfunc.obj"
+".\Release\mainprog.obj"
+".\Release\matfunc.obj"
+".\Release\mdlfunc.obj"
+".\Release\mvefunc.obj"
+".\Release\rdfunc.obj"
+".\Release\scnfunc.obj"
+".\Release\txfunc.obj"
+".\Release\winmain.obj"
+".\Direct3D\d3dim.lib"
+".\Direct3D\ddraw.lib"
+".\Direct3D\dinput.lib"
+".\Direct3D\dsound.lib"
+".\Direct3D\dxguid.lib"
+".\Direct3D\winmm.lib"
+]
+Creating command line "link.exe @c:\windows\TEMP\RSPF1A4.TMP"
+<h3>Output Window</h3>
+Compiling...
+bmpfunc.cpp
+camfunc.cpp
+d3dfunc.cpp
+ddfunc.cpp
+difunc.cpp
+dmfunc.cpp
+dsfunc.cpp
+filefunc.cpp
+fontfunc.cpp
+ltfunc.cpp
+mainprog.cpp
+matfunc.cpp
+mdlfunc.cpp
+mvefunc.cpp
+rdfunc.cpp
+scnfunc.cpp
+txfunc.cpp
+winmain.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+Stopwatch.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
